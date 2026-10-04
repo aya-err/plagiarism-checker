@@ -1,4 +1,4 @@
-# plagirism-checker
+# plagiarism-checker
 This project checks the plagiarism percentage between two given files using Pyhton.
 
 ## How it works
